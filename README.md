@@ -60,8 +60,7 @@ Luego, creamos la tabla que almacenará la información de episodios
 ![image](https://github.com/user-attachments/assets/4031507f-3229-450e-8452-879d670a032a)
 
 
-### Paso 6: Insertar datos de prueba
-Puedes insertar algunos datos de prueba en las tablas para asegurarte de que todo funciona correctamente.
+### Paso 6: Insertar datos en las tablas.
 
 ![image](https://github.com/user-attachments/assets/5b8d4079-228d-4430-81a9-53bc88669e28)
 
